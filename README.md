@@ -2,6 +2,16 @@
 
 ### **A full-stack rating system for stores, allowing users to submit and track ratings.**  
 
+## **📌 Features**  
+✅ **User Authentication** (JWT-based Login & Registration)  
+✅ **Store Listing & Details** 
+✅ **User Role based login**  
+✅ **Submit & Update Ratings**  
+✅ **Admin Panel for Store Management**  
+✅ **Responsive UI with Tailwind CSS**  
+
+---
+
 🚀 **Tech Stack:**  
 - **Frontend:** React.js, Tailwind CSS  
 - **Backend:** Node.js, Express.js, PostgreSQL  
@@ -29,14 +39,7 @@
 
 ---
 
-## **📌 Features**  
-✅ **User Authentication** (JWT-based Login & Registration)  
-✅ **Store Listing & Details**  
-✅ **Submit & Update Ratings**  
-✅ **Admin Panel for Store Management**  
-✅ **Responsive UI with Tailwind CSS**  
 
----
 
 
 ## **🚀 Installation Guide**  
