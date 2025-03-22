@@ -13,16 +13,19 @@
 ## **📸 Screenshots**  
 
 ### **🖥️ Home Page (Landing Page)**
-![Landing Page](./)
+![Landing Page](./Screenshots/ratingSys.png)
 
 ### **🔐 Login Page**
-![Login Page]()
+![Login Page](./Screenshots/login.png)
 
 ### **🔐 Register Page**
-![Register Page]()
+![Register Page](./Screenshots/register.png)
 
-### **⭐ Store Rating System**
-![Store Rating](https://via.placeholder.com/600x300?text=Store+Ratings)
+### **⭐ Store owner panal **
+![Store Rating](./Screenshots/storeDash.png)
+
+### **⭐ Admin panal **
+![Store Rating](./Screenshots/admindash.png)
 
 ---
 
