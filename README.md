@@ -121,12 +121,6 @@ npm start
 
 ---
 
-## **🛠️ Technologies Used**
-- **Frontend:** React.js, Tailwind CSS  
-- **Backend:** Node.js, Express.js  
-- **Database:** PostgreSQL  
-- **Authentication:** JWT (JSON Web Token)  
-
 
 
 
