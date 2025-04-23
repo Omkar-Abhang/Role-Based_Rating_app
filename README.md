@@ -1,4 +1,4 @@
-# **Roxiler Rating Web App** ⭐  
+# ** Rating Web App** ⭐  
 
 ### **A full-stack rating system for stores, allowing users to submit and track ratings.**  
 
